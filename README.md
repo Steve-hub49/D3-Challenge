@@ -2,7 +2,9 @@
 
 ## D3 Homework - Data Journalism and D3
 
-### Please note this project is deployed at https://steve-hub49.github.io/D3-Challenge/index.html
+### Please note this project is deployed at
+
+### https://steve-hub49.github.io/D3-Challenge/index.html
 
 ## Background
 Welcome to the newsroom! I have just accepted a data visualization position for a major metro paper. I'm tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand my findings.
