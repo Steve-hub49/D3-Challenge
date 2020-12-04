@@ -11,7 +11,7 @@ As background, the data set included with the assignment is based on 2014 ACS 1-
 
 ## My Task
 
-Core Assignment: D3 Dabbler (Required Assignment)
+## Core Assignment: D3 Dabbler (Required Assignment)
 
 I will create scatter plots between two of the data variables provided such as Healthcare vs. Poverty or Smokers vs. Age. I have actually created and analyzed four such plots.
 Each includes a scatter plot that represents each state with circle elements. I've coded this graphic in the app.js file of my homework directory, making sure I pull in the data from the data.csv file by using the d3.csv function. 
