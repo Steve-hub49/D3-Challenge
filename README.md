@@ -2,7 +2,7 @@
 
 ## D3 Homework - Data Journalism and D3
 
-### Please note this project is deployed at
+### Please note this project is deployed at:
 
 ### https://steve-hub49.github.io/D3-Challenge/index.html
 
